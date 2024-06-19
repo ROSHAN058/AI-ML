@@ -1,0 +1,2 @@
+Slope:- dy/dx i.e one unit change in x tends to chnage how many  unit change in y. 
+intercept :- when value of x is 0 what the value of y is called intercept.
