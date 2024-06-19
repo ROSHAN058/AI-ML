@@ -1,0 +1,24 @@
+Artificial Intelligence Vs Machine Learning Vs Deep Learning Vs Data Scientists
+AI application:- Recommendation engine, self-driving machine (task performed without human intervention)
+Machine Learning:- Stats tool to analyze, visualize, predict, and forecast the data.
+Deep Learning: A multi-layer Neural network aims to mimic the human brain. 
+
+|---------| AI
+| |----|ML|
+| |    |  |
+| | DL |  | 
+| |____|  |
+|_________|
+
+DS is part of all 
+
+Machine learning and Deep Learning:-
+1. Supervised Machine Learning --> Regression and classification (we need one dependent variable to predict using multiple independent or one independent variable)
+2. Unsupervised machine Learning -->clustering and Demensionatility reduction (we do not have a dependent variable using grouped data to identify the clusters
+and dimension reduction meaning reducing the feature variable from e.g 1000 to 10 )
+3. Reinforcement learning 
+
+Supervised MachineLearning:-
+1. Regression:-if the dependent variable is continuous like weight, height, or price then we call this regression
+2. Classification:- if the dependent variable has a fixed class category called classification like if it is 2 called a binary classification or multi-class classification.
+
