@@ -1,0 +1,8 @@
+Interview Topics:-
+1.Python :- Basic and itermididate
+2.Statistics :- Hypothesis Testing --> Ztest,t Test ,chi square test , Anova test with real world seceniores .
+3.Machine Learning(NLP) :- text Embedings -> word2vec --> ANN , cosine simialrity, simple,linear linear regressions 
+4.Deep Learning(NLP):- Activation functions, lossfunction, optimizers, Transformer-->BERT huggining face most important topic
+5.Open Source (LLM's):-LLAMA2,Google gemma model.
+6.Paid LLM's:-Open AI--> llms,Amazon Bedrock LLMS
+7.Databases:-vector databses
