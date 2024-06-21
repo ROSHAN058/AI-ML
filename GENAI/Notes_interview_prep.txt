@@ -5,4 +5,5 @@ Interview Topics:-
 4.Deep Learning(NLP):- Activation functions, lossfunction, optimizers, Transformer-->BERT huggining face most important topic
 5.Open Source (LLM's):-LLAMA2,Google gemma model.
 6.Paid LLM's:-Open AI--> llms,Amazon Bedrock LLMS
-7.Databases:-vector databses
+7.Databases:-vector databases
+https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/blob/main/README.md
