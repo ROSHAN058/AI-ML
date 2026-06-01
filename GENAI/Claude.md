@@ -38,3 +38,32 @@ An overview and comparison of the Claude model family by Anthropic, outlining th
 * **Language translation**
 * **Q&A systems** and knowledge retrieval
 * **Most high-volume, straightforward** text processing tasks
+
+* # Picking the Right Model
+
+A spectrum showing the trade-off between model intelligence and cost/speed when choosing across the Claude model family.
+
+---
+
+## The Spectrum
+
+The models sit on a continuum bounded by two primary axes:
+* **Intelligence** (Left)
+* **Cost / Speed** (Right)
+
+---
+
+## Model Breakdowns
+
+### 💡 Claude Opus
+* **Position:** Far left (Highest Intelligence)
+* **Characteristics:** Highly intelligent, more expensive, higher latency
+
+### ⚖️ Claude Sonnet
+* **Position:** Middle (Balanced)
+* **Characteristics:** Strong balance of intelligence, cost, and speed
+
+### ⚡ Claude Haiku
+* **Position:** Far right (Best Cost/Speed)
+* **Characteristics:** Moderate intelligence, low cost, highest speed
+* 
